@@ -1,0 +1,35 @@
+body {
+    margin:0;
+    padding: 0;
+  }
+  .box {
+    background-color: #FFF;
+    position: relative,
+  }
+  .wrapper {
+  
+    height: 100vh;
+  }
+  
+  .color {
+    background-color: black;
+  
+  }
+  .btn .btn-primary {
+    border: none;
+  }
+  #author {
+    text-align: right;
+  }
+
+
+  .fa-quote-left {
+    position: absolute;
+    margin-left: -35px;
+    margin-top: -10px;
+    opacity: 0.65
+  }
+
+  .row>*  {
+    width: unset;
+  }
